@@ -1,0 +1,8 @@
+*,
+*::before,
+*::after {
+	padding-left: 10px;
+}
+.information {
+    color: #d54453;
+}
